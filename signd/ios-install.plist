@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pk-1317904085.cos.ap-nanjing.myqcloud.com/v2pk/yrj_z/yr.ipa</string>
+					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/yiren_technology-software-distribution_installation-package/raw/main/signd/yiren-20231122-2236_resign.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://pk-1317904085.cos.ap-nanjing.myqcloud.com/v2pk/yrj_z/logo.png</string>
+					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/yiren_technology-software-distribution_installation-package/raw/main/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://pk-1317904085.cos.ap-nanjing.myqcloud.com/v2pk/yrj_z/logo.png</string>
+					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/yiren_technology-software-distribution_installation-package/raw/main/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
